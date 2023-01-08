@@ -16,6 +16,5 @@
 # Opportunities presented by RPS
 - You may easily adjust the maximal amount of rounds you are allowed to play by modifying the global variable `MAX_AMOUT`in [rock_paper_scissors.h](https://github.com/lspohle/PRIVATE_rps/blob/main/rock_paper_scissors.h).
 
-
-https://user-images.githubusercontent.com/121381385/211179730-98acb40c-f333-416d-ab64-9f46fbfc5d6f.mov
+https://user-images.githubusercontent.com/121381385/211190997-c1132f49-827d-4e16-b662-1b8430ad9713.mov
 
