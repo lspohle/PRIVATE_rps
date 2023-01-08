@@ -7,7 +7,10 @@
 1. `Git clone` the current repository.
       
         git clone https://github.com/lspohle/PRIVATE_rps.git
-2. Go into the directory. Run the following command to `make` an archive, `compile` and `execute` RPS.
+2. Go into the directory.
+      
+        cd PRIVATE_rps
+2. Run the following command to `make` an archive, `compile` and `execute` RPS.
       
         make -s
 # Opportunities presented by RPS
