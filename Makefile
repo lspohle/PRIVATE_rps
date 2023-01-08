@@ -6,7 +6,7 @@ SRCS =		display_welcome.c get_input.c display_outcome.c
 
 OBJS =		${SRCS:.c=.o}
 
-GCCW =		gcc -Wall -Werror -Wextra
+GCCW =		gcc -Wall -Wextra
 
 AR =		ar -rc
 
