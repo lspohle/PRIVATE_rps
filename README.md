@@ -2,10 +2,7 @@
 
 > ## “The world is so unpredictable. Things happen suddenly, unexpectedly. We want to feel we are in control of our own existence. In some ways we are, in some ways we're not. We are ruled by the forces of chance and coincidence.” - Paul Auster
 
-We, a friend of mine and I, needed twenty randomly generated words. Instead of simply searching for a generator on the internet, we
-decided to play around a little and code one ourselves. RWG randomly generates a specific amount of words. The user may ask the generator for up to 2000 words. It will print the requested amount of words as long as the user's input is valid. 
-
-
+`RPS` is your competition whenever you're up for a battle of `Rock, Paper, Scissors`. Challenge yourself and give it a try. Easy to implement, and slightly addictive. I used my own [library](https://github.com/lspohle/PRIVATE_rps/tree/main/libft) for [printf](https://github.com/lspohle/PRIVATE_rps/blob/main/libft/ft_printf.c) and [strlen](https://github.com/lspohle/PRIVATE_rps/blob/main/libft/ft_strlen.c), for instance. Instead of including <stdio.h> and <string.h>.
 
 1. `Git clone` the current repository.
       
@@ -15,5 +12,8 @@ decided to play around a little and code one ourselves. RWG randomly generates a
         make -s
 
 # Opportunities presented by RPS
-- You may adjust the maximal amount of rounds you are allowed to play by adjusting the [code]
-- You may use a compiler for C of your choice (clang or gcc, for instance).
+- You may easily adjust the maximal amount of rounds you are allowed to play by modifying the global variable `MAX_AMOUT`in [rock_paper_scissors.h](https://github.com/lspohle/PRIVATE_rps/blob/main/rock_paper_scissors.h).
+
+
+https://user-images.githubusercontent.com/121381385/211179730-98acb40c-f333-416d-ab64-9f46fbfc5d6f.mov
+
