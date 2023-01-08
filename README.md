@@ -10,7 +10,6 @@
 2. Go into the directory. Run the following command to `make` an archive, `compile` and `execute` RPS.
       
         make -s
-
 # Opportunities presented by RPS
 - You may easily adjust the maximal amount of rounds you are allowed to play by modifying the global variable `MAX_AMOUT`in [rock_paper_scissors.h](https://github.com/lspohle/PRIVATE_rps/blob/main/rock_paper_scissors.h).
 
