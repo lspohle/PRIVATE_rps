@@ -2,6 +2,7 @@
 # define ROCK_PAPER_SCISSORS_H
 # include "libft/libft.h"
 # include <time.h>
+# include <stdio.h>
 # define RED "\e[38;5;196;1m"
 # define PURPLE "\e[38;5;141;1m"
 # define YELLOW "\e[38;5;226;1m"
