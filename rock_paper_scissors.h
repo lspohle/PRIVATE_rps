@@ -15,6 +15,8 @@
 # define BLUE "\e[38;5;32;1m"
 # define PINK "\e[38;5;212m"
 # define ESCAPE "\033[0m"
+# define MAX_AMOUNT 5
+# define MIN_AMOUNT 0
 
 typedef	enum
 {

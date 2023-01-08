@@ -18,7 +18,7 @@ int	get_amount_of_rounds(int *requested_amount)
 
     scanf("\n%2s", input);
     *requested_amount = ft_atoi(input);
-    if (*requested_amount > 5 || *requested_amount < 1)
+    if (*requested_amount > MAX_AMOUNT || *requested_amount < MIN_AMOUNT)
         return (-1);
     return (0);
 }
