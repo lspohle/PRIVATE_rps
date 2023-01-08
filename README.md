@@ -15,6 +15,7 @@
        make -s
 # Opportunities presented by RPS
 - You may easily adjust the maximal amount of rounds you are allowed to play by modifying the global variable `MAX_AMOUT`in [rock_paper_scissors.h](https://github.com/lspohle/PRIVATE_rps/blob/main/rock_paper_scissors.h).
+- RPS is easy to implement, and it should work on various operating systems (macOS and Ubuntu, for example). Don't worry about warnings that might be thrown by the compiler if you're using a different operating system than macOS. It varies form operating system to operating system.
 
 https://user-images.githubusercontent.com/121381385/211190997-c1132f49-827d-4e16-b662-1b8430ad9713.mov
 
